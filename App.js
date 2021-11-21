@@ -3,6 +3,7 @@
  * https://github.com/facebook/react-native
  * first change
  * second
+ * third
  *
  * @format
  * @flow strict-local
